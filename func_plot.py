@@ -2,7 +2,7 @@
 '''
 @File    :   func_plot.py
 @Time    :   2024/10/16 17:38:54
-@Author  :   Wang Heng 
+@Author  :   Heeeg 
 @Version :   1.0
 '''
 #%%

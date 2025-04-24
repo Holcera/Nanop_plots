@@ -2,7 +2,7 @@
 '''
 @File    :   func_fileselect.py
 @Time    :   2024/10/16 14:55:49
-@Author  :   Wang Heng 
+@Author  :   Heeeg 
 @Version :   1.0
 '''
 #%% packages

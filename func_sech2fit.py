@@ -2,7 +2,7 @@
 '''
 @File    :   func_sech2.py
 @Time    :   2025/01/25 22:50:13
-@Author  :   Wang Heng 
+@Author  :   Heeeg 
 @Version :   1.0
 '''
 #%%

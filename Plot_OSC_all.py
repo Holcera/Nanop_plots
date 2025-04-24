@@ -2,7 +2,7 @@
 '''
 @File    :   Plot_OSC_all.py
 @Time    :   2024/03/28 23:01:57
-@Author  :   Wang Heng 
+@Author  :   Heeeg 
 @Version :   1.0
 '''
 #%%

@@ -2,7 +2,7 @@
 '''
 @File    :   func_readfiles.py
 @Time    :   2024/10/16 16:16:25
-@Author  :   Wang Heng 
+@Author  :   Heeeg 
 @Version :   1.0
 '''
 #%%

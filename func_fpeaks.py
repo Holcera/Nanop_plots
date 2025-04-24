@@ -2,7 +2,7 @@
 '''
 @File    :   findpeaks.py
 @Time    :   2024/03/28 22:10:27
-@Author  :   Wang Heng 
+@Author  :   Heeeg 
 @Version :   1.0
 '''
 #%%

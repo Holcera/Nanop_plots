@@ -1,6 +1,6 @@
-# Nanop_plots
+# plots
 
-This repository contains Python scripts and utilities for data analysis and visualization related to Nanop_ paper. The scripts are organized to handle tasks such as file selection, data processing, peak detection, fitting, and plotting.
+This repository contains Python scripts and utilities for data analysis and visualization related to my paper. The scripts are organized to handle tasks such as file selection, data processing, peak detection, fitting, and plotting.
 
 Includes a lot of unrelated drawing scripts.
 
@@ -38,12 +38,3 @@ The scripts rely on the following Python libraries:
 - `matplotlib`
 - `scipy`
 - `tkinter`
-- `holoviews`
-- `bokeh`
-
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd Nanop_plots

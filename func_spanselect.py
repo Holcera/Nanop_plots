@@ -2,7 +2,7 @@
 '''
 @File    :   spanselect.py
 @Time    :   2024/03/22 18:05:43
-@Author  :   Wang Heng 
+@Author  :   Heeeg 
 @Version :   1.0
 '''
 #%%
